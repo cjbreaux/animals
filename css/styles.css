@@ -2,6 +2,25 @@
   text-align: center;
 }
 
-.elephant, .tiger, .sloth {
+.elephant {
+  display: none;
+}
+#elephantText {
+  display: none;
+}
+
+.tiger {
+  display: none;
+}
+
+#tigerText {
+  display: none;
+}
+
+.sloth {
+  display: none;
+}
+
+#slothText {
   display: none;
 }
