@@ -1,0 +1,7 @@
+.text {
+  text-align: center;
+}
+
+.elephant, .tiger, .sloth {
+  display: none;
+}
