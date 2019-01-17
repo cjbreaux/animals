@@ -1,11 +1,12 @@
 .text {
-  text-align: center;
-}
-
-.elephant {
   display: none;
 }
-#elephantText {
+
+ .elephant {
+  display: none;
+}
+
+/* #elephantText {
   display: none;
 }
 
@@ -23,4 +24,4 @@
 
 #slothText {
   display: none;
-}
+} */ 
